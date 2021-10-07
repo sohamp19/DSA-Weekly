@@ -11,3 +11,8 @@ https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 https://leetcode.com/problems/number-of-good-pairs/
 Implement insertion sort in java
 Implement merge sort in java
+https://leetcode.com/problems/count-items-matching-a-rule/
+https://leetcode.com/problems/find-the-highest-altitude/
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+https://leetcode.com/problems/create-target-array-in-the-given-order/
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/
