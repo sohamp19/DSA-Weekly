@@ -13,3 +13,4 @@ https://leetcode.com/problems/product-of-array-except-self/
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/  
 https://leetcode.com/problems/jump-game/  
 https://leetcode.com/problems/rotate-array/  
+https://leetcode.com/problems/sqrtx/  
